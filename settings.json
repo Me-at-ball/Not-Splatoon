@@ -1,0 +1,10 @@
+{
+  "GameSemVer": "0.1.0-t1",
+  "ActiveEvent": "1",
+  "TestfireActive": "true",
+  "UseLocalWeaponData": "true",
+
+  "Event-1": {
+    "commment": "0"
+  }
+}
