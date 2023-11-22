@@ -1,10 +1,19 @@
 {
   "GameSemVer": "0.1.0-t1",
-  "ActiveEvent": "1",
+  "Season": 0,
+  "ActiveEvent": 1,
   "TestfireActive": "true",
   "UseLocalWeaponData": "true",
 
   "Event-1": {
-    "commment": "0"
+    "DamageMulti": 1,
+    "EnemyDamageMulti": 1,
+    "MovementSpeedMulti": 1,
+    "EnemyMovementSpeedMulti": 1,
+    "SpecialChargeMulti": 1,
+    "RangeMulti": 1,
+    
+    "WinConditionType": 0,
+    "WinCondition": 0
   }
 }
