@@ -6,6 +6,7 @@
   "UseLocalWeaponData": "true",
 
   "Event-1": {
+    "Name": "Testfire",
     "DamageMulti": 1,
     "EnemyDamageMulti": 1,
     "MovementSpeedMulti": 1,
