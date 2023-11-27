@@ -3,6 +3,8 @@
   "Season": 0,
   "ActiveEvent": 1,
   "TestfireActive": "true",
+  "TestfireOpenTime": "1702987200",
+  "TestfireCloseTime": "1703505600",
   "UseLocalWeaponData": "true",
 
   "Event-1": {
