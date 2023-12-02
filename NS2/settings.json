@@ -1,5 +1,6 @@
 {
   "GameSemVer": "0.1.0-t1",
+  "SplashImage": "splash.svg",
   "Season": 0,
   "EventVer": 0,
   "ActiveEvent": 1,
