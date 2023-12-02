@@ -3,6 +3,6 @@
   "ActiveChallenge": 0,
   "ActiveFesID": 0,
   "SpecialFesSymb": null,
-  "ChallengePos1Symb": "FullCharge",
+  "ChallengePos1Symb": "fullcharge",
   "ChallengePos2Symb": "Warmup"
 }
