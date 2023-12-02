@@ -1,6 +1,7 @@
 {
   "GameDataVer": 8,
   "ActiveChallenge": 0,
+  "ActiveFesID": 0,
   "ChallengePos1Symb": "FullCharge",
   "ChallengePos2Symb": "Warmup"
 }
