@@ -1,0 +1,9 @@
+0 = None
+1 = surprise
+2 = speed
+3 = bubblers
+4 = fullcharge
+5 = trialerror
+6 = dual
+7 = trizookas
+60 = warmup
