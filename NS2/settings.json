@@ -11,6 +11,7 @@
 
   "Event-1": {
     "Name": "Testfire",
+    "AvailableWeapons": ["w00010", "w00020"],
     "DamageMulti": 1,
     "EnemyDamageMulti": 1,
     "MovementSpeedMulti": 1,
