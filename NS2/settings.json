@@ -7,11 +7,12 @@
   "TestfireActive": "true",
   "TestfireOpenTime": "1702987200",
   "TestfireCloseTime": "1703505600",
+  "TestfireMaps": ["corner", "hiagari"],
   "UseLocalWeaponData": "true",
 
   "Event-1": {
     "Name": "Testfire",
-    "AvailableWeapons": ["w00010", "w00020"],
+    "AvailableWeapons": ["w00010", "w00020", "w03010"],
     "DamageMulti": 1,
     "EnemyDamageMulti": 1,
     "MovementSpeedMulti": 1,
