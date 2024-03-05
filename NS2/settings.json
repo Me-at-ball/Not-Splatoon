@@ -5,8 +5,8 @@
   "EventVer": 0,
   "ActiveEvent": 1,
   "TestfireActive": "true",
-  "TestfireOpenTime": "1702987200",
-  "TestfireCloseTime": "1703505600",
+  "TestfireOpenTime": "0",
+  "TestfireCloseTime": "999999999999",
   "TestfireMaps": ["corner", "hiagari", "carousel"],
   "UseLocalWeaponData": "true",
 
