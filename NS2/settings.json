@@ -11,8 +11,8 @@
   "UseLocalWeaponData": "true",
 
   "Event-1": {
-    "Name": "Testfire",
-    "AvailableWeapons": ["w00010", "w00020", "w03010"],
+    "Name": "weewoowahoo",
+    "AvailableWeapons": ["w00010", "w00020", "w02010", "w03010", "w03020"],
     "DamageMulti": 1,
     "EnemyDamageMulti": 1,
     "MovementSpeedMulti": 1,
