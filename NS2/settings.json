@@ -10,17 +10,19 @@
   "TestfireMaps": ["corner", "hiagari", "carousel"],
   "UseLocalWeaponData": "true",
 
-  "Event-1": {
+  "Events": [
+    {
     "Name": "weewoowahoo",
-    "AvailableWeapons": ["w00010", "w00020", "w02010", "w03010", "w03020"],
-    "DamageMulti": 1,
-    "EnemyDamageMulti": 1,
-    "MovementSpeedMulti": 1,
-    "EnemyMovementSpeedMulti": 1,
-    "SpecialChargeMulti": 1,
-    "RangeMulti": 1,
-    
-    "WinConditionType": 0,
-    "WinCondition": 0
-  }
+      "AvailableWeapons": ["w00010", "w00020", "w02010", "w03010", "w03020"],
+      "DamageMulti": 1,
+      "EnemyDamageMulti": 1,
+      "MovementSpeedMulti": 1,
+      "EnemyMovementSpeedMulti": 1,
+      "SpecialChargeMulti": 1,
+      "RangeMulti": 1,
+      
+      "WinConditionType": 0,
+      "WinCondition": 0
+    }
+  ]
 }
