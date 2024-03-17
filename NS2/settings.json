@@ -17,16 +17,13 @@
     "Name": "weewoowahoo",
       "InfoImage": "nil",
       "ScheduleImage": "nil",
-      "AvailableWeapons": ["w00010", "w00020", "w00030", "w02010", "w03010", "w03020"],
+      "AvailableWeapons": ["all"],
       "DamageMulti": 1,
       "EnemyDamageMulti": 1,
       "MovementSpeedMulti": 1,
       "EnemyMovementSpeedMulti": 1,
       "SpecialChargeMulti": 1,
       "RangeMulti": 1,
-      
-      "WinConditionType": 0,
-      "WinCondition": 0
     },
     {
     "Name": "Rayse the Roof",
@@ -39,9 +36,18 @@
       "EnemyMovementSpeedMulti": 1.2,
       "SpecialChargeMulti": 2,
       "RangeMulti": 1.2,
-      
-      "WinConditionType": 0,
-      "WinCondition": 0
+    },
+    {
+    "Name": "Let's work together! Stage Sandbox",
+      "InfoImage": "nil",
+      "ScheduleImage": "nil",
+      "AvailableWeapons": ["all"],
+      "DamageMulti": 1,
+      "EnemyDamageMulti": 1,
+      "MovementSpeedMulti": 1,
+      "EnemyMovementSpeedMulti": 1,
+      "SpecialChargeMulti": 1,
+      "RangeMulti": 1,
     }
   ]
 }
