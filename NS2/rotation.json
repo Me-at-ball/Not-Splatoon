@@ -1,33 +1,33 @@
 {
   "OctoBattle": [
-    {"startTime": "1719748800", "endTime": "1719755999", "stages": ["nagasaki", "scrap"]},
-    {"startTime": "1719756000", "endTime": "1719763199", "stages": ["hiagari", "updown"]},
-    {"startTime": "1719763200", "endTime": "1719770399", "stages": ["carousel", "around"]},
-    {"startTime": "1719770400", "endTime": "1719777599", "stages": ["corner", "crank"]},
-    {"startTime": "1719777600", "endTime": "nil", "stages": ["line", "tunnel"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["venue", "ruins"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["carousel", "updown"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["corner", "ruins"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["updown", "scrap"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["line", "crank"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["scrap", "corner"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["line", "around"]}
+    {"startTime": "1725148800", "endTime": "1725155999", "stages": ["nagasaki", "scrap"]},
+    {"startTime": "1725156000", "endTime": "1725163199", "stages": ["hiagari", "updown"]},
+    {"startTime": "1725163200", "endTime": "1725170399", "stages": ["carousel", "around"]},
+    {"startTime": "1725170400", "endTime": "1725177599", "stages": ["corner", "crank"]},
+    {"startTime": "1725177600", "endTime": "1725184799", "stages": ["line", "tunnel"]},
+    {"startTime": "1725184800", "endTime": "1725191999", "stages": ["venue", "ruins"]},
+    {"startTime": "1725192000", "endTime": "1725199199", "stages": ["carousel", "updown"]},
+    {"startTime": "1725199200", "endTime": "1725206399", "stages": ["corner", "ruins"]},
+    {"startTime": "1725206400", "endTime": "1725213599", "stages": ["updown", "scrap"]},
+    {"startTime": "1725213600", "endTime": "1725220799", "stages": ["line", "crank"]},
+    {"startTime": "1725220800", "endTime": "1725227999", "stages": ["scrap", "corner"]},
+    {"startTime": "1725228000", "endTime": "1725235199", "stages": ["line", "around"]}
   ],
   "RegularBattle": [
-    {"startTime": "1719748800", "endTime": "1719755999", "stages": ["carousel", "hiagari"]},
-    {"startTime": "1719756000", "endTime": "1719763199", "stages": ["corner", "ruins"]},
-    {"startTime": "1719763200", "endTime": "1719770399", "stages": ["nagasaki", "line"]},
-    {"startTime": "1719770400", "endTime": "1719777599", "stages": ["around", "scrap"]},
-    {"startTime": "1719777600", "endTime": "nil", "stages": ["venue", "crank"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["tunnel", "updown"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["ruins", "scrap"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["nagasaki", "carousel"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["line", "crank"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["scrap", "tunnel"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["updown", "around"]},
-    {"startTime": "nil", "endTime": "nil", "stages": ["hiagari", "crank"]}
+    {"startTime": "1725148800", "endTime": "1725155999", "stages": ["carousel", "hiagari"]},
+    {"startTime": "1725156000", "endTime": "1725163199", "stages": ["corner", "ruins"]},
+    {"startTime": "1725163200", "endTime": "1725170399", "stages": ["nagasaki", "line"]},
+    {"startTime": "1725170400", "endTime": "1725177599", "stages": ["around", "scrap"]},
+    {"startTime": "1725177600", "endTime": "1725184799", "stages": ["venue", "crank"]},
+    {"startTime": "1725184800", "endTime": "1725191999", "stages": ["tunnel", "updown"]},
+    {"startTime": "1725192000", "endTime": "1725199199", "stages": ["ruins", "scrap"]},
+    {"startTime": "1725199200", "endTime": "1725206399", "stages": ["nagasaki", "carousel"]},
+    {"startTime": "1725206400", "endTime": "1725213599", "stages": ["line", "crank"]},
+    {"startTime": "1725213600", "endTime": "1725220799", "stages": ["scrap", "tunnel"]},
+    {"startTime": "1725220800", "endTime": "1725227999", "stages": ["updown", "around"]},
+    {"startTime": "1725228000", "endTime": "1725235199", "stages": ["hiagari", "crank"]}
   ],
   "Challenge": [
-    {"startTime": "1719748800", "endTime": "1719835199", "stages": ["corner", "around"], "eventID": "2", "mode": "octo"}
+    {"startTime": "1725148800", "endTime": "1725235199", "stages": ["corner", "around"], "eventID": "2", "mode": "octo"}
   ]
 }
