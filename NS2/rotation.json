@@ -40,6 +40,6 @@
     {"startTime": "nil", "endTime": "nil", "stages": ["around", "corner"]}
   ],
   "Challenge": [
-    {"startTime": "1719748800", "endTime": "1719835199", "stages": ["corner", "around"], "eventID": "2"}
+    {"startTime": "1719748800", "endTime": "1719835199", "stages": ["corner", "around"], "eventID": "2", "mode": "octo"}
   ]
 }
