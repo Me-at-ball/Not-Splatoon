@@ -14,7 +14,7 @@
 
   "Events": [
     {
-    "Name": "weewoowahoo",
+      "Name": "weewoowahoo",
       "InfoImage": "nil",
       "ScheduleImage": "nil",
       "AvailableWeapons": ["all"],
@@ -23,7 +23,7 @@
       "MovementSpeedMulti": 1,
       "EnemyMovementSpeedMulti": 1,
       "SpecialChargeMulti": 1,
-      "RangeMulti": 1,
+      "RangeMulti": 1
     },
     {
     "Name": "Rayse the Roof",
@@ -35,7 +35,7 @@
       "MovementSpeedMulti": 1,
       "EnemyMovementSpeedMulti": 1.2,
       "SpecialChargeMulti": 2,
-      "RangeMulti": 1.2,
+      "RangeMulti": 1.2
     },
     {
     "Name": "Let's work together! Stage Sandbox",
@@ -47,7 +47,7 @@
       "MovementSpeedMulti": 1,
       "EnemyMovementSpeedMulti": 1,
       "SpecialChargeMulti": 1,
-      "RangeMulti": 1,
+      "RangeMulti": 1
     }
   ]
 }
