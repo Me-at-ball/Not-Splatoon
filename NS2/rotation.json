@@ -28,6 +28,6 @@
     {"startTime": "1725228000", "endTime": "1725235199", "stages": ["hiagari", "crank"]}
   ],
   "Challenge": [
-    {"startTime": "1725148800", "endTime": "1725235199", "stages": ["corner", "around"], "eventID": "2", "mode": "octo"}
+    {"startTime": "1725148800", "endTime": "1725235199", "stages": ["corner", "around"], "eventID": 2, "mode": "octo"}
   ]
 }
