@@ -1,9 +1,9 @@
 {
   "GameDataVer": 8,
-  "ActiveChallenge": 60,
+  "ActiveChallenge": 6,
   "ActiveFesID": 0,
   "FesID": 0,
   "SpecialFesSymb": "null",
-  "ChallengePos1Symb": "warmup",
-  "ChallengePos2Symb": "fes"
+  "ChallengePos1Symb": "trialerror",
+  "ChallengePos2Symb": "trizookas"
 }
