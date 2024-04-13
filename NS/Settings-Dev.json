@@ -1,8 +1,8 @@
 {
   "GameDataVer": 8,
   "ActiveChallenge": 0,
-  "ActiveFesID": 0,
-  "SpecialFesSymb": "",
+  "ActiveFesID": 1,
+  "SpecialFesSymb": "stove",
   "ChallengePos1Symb": "Fes",
   "ChallengePos2Symb": "fullcharge"
 }
