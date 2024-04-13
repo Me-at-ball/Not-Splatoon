@@ -1,5 +1,5 @@
 {
-  "OctoBattle": [
+  "OctaBattle": [
     {"startTime": "1725148800", "endTime": "1725155999", "stages": ["nagasaki", "scrap"]},
     {"startTime": "1725156000", "endTime": "1725163199", "stages": ["hiagari", "updown"]},
     {"startTime": "1725163200", "endTime": "1725170399", "stages": ["carousel", "around"]},
