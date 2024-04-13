@@ -9,7 +9,7 @@
   "TestfireMaps": ["corner", "hiagari", "carousel"],
   "TestfireOpenTime2": "0",
   "TestfireCloseTime2": "0",
-  "TestfireMaps2": ["around", "nagasaki", "ruins"],
+  "TestfireMaps2": ["around", "crank", "ruins"],
   "UseLocalWeaponData": "true",
 
   "Events": [
