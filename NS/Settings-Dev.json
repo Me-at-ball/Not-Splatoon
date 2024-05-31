@@ -1,8 +1,8 @@
 {
   "GameDataVer": 8,
-  "ActiveChallenge": 0,
-  "ActiveFesID": 1,
-  "SpecialFesSymb": "sweat",
-  "ChallengePos1Symb": "Fes",
-  "ChallengePos2Symb": "fullcharge"
+  "ActiveChallenge": 4,
+  "ActiveFesID": 0,
+  "SpecialFesSymb": "null",
+  "ChallengePos1Symb": "???",
+  "ChallengePos2Symb": "???"
 }
