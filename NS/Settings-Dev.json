@@ -4,5 +4,6 @@
   "ActiveFesID": 0,
   "SpecialFesSymb": "null",
   "ChallengePos1Symb": "???",
-  "ChallengePos2Symb": "???"
+  "ChallengePos2Symb": "???",
+  "BoostingSongs": [29, 30, 31, 32]
 }
