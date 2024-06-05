@@ -7,7 +7,6 @@
   "TestfireOpenTime": "1712059200",
   "TestfireCloseTime": "1712667600",
   "TestfireMaps": ["corner", "hiagari", "carousel"],
-  "TestfireMode": "cln",
   "UseLocalWeaponData": "true",
 
   "Events": [
