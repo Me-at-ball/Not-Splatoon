@@ -11,6 +11,7 @@
 
   "Events": [
     {
+      "NumID": 1,
       "Name": "weewoowahoo",
       "InfoImage": "nil",
       "ScheduleImage": "nil",
@@ -20,10 +21,14 @@
       "MovementSpeedMulti": 1,
       "EnemyMovementSpeedMulti": 1,
       "SpecialChargeMulti": 1,
-      "RangeMulti": 1
+      "RangeMulti": 1,
+      "InkConsumptionMultiMain": 1,
+      "InkConsumptionMultiSub": 1,
+      "InkRecoveryMulti": 1
     },
     {
-    "Name": "Rayse the Roof",
+      "NumID": 2,
+      "Name": "Rayse the Roof",
       "InfoImage": "nil",
       "ScheduleImage": "nil",
       "AvailableWeapons": ["w00030", "w02010"],
@@ -32,10 +37,14 @@
       "MovementSpeedMulti": 1,
       "EnemyMovementSpeedMulti": 1.2,
       "SpecialChargeMulti": 2,
-      "RangeMulti": 1.2
+      "RangeMulti": 1,
+      "InkConsumptionMultiMain": 1,
+      "InkConsumptionMultiSub": 1,
+      "InkRecoveryMulti": 1
     },
     {
-    "Name": "Let's try it together! Stage Sandbox",
+      "NumID": 3,
+      "Name": "Let's try it together! Stage Sandbox",
       "InfoImage": "nil",
       "ScheduleImage": "nil",
       "AvailableWeapons": ["all"],
@@ -44,7 +53,42 @@
       "MovementSpeedMulti": 1,
       "EnemyMovementSpeedMulti": 1,
       "SpecialChargeMulti": 1,
-      "RangeMulti": 1
-    }
+      "RangeMulti": 1,
+      "InkConsumptionMultiMain": 1,
+      "InkConsumptionMultiSub": 1,
+      "InkRecoveryMulti": 1
+    },
+    {
+      "NumID": 4,
+      "Name": "Too Many Trizookas!",
+      "InfoImage": "nil",
+      "ScheduleImage": "nil",
+      "AvailableWeapons": ["all"],
+      "DamageMulti": 1,
+      "EnemyDamageMulti": 1,
+      "MovementSpeedMulti": 1,
+      "EnemyMovementSpeedMulti": 1,
+      "SpecialChargeMulti": 2,
+      "RangeMulti": 1,
+      "InkConsumptionMultiMain": 1,
+      "InkConsumptionMultiSub": 1,
+      "InkRecoveryMulti": 1
+    },
+    {
+      "NumID": 5,
+      "Name": "Splat with Haste",
+      "InfoImage": "nil",
+      "ScheduleImage": "nil",
+      "AvailableWeapons": ["all"],
+      "DamageMulti": 1,
+      "EnemyDamageMulti": 1,
+      "MovementSpeedMulti": 1,
+      "EnemyMovementSpeedMulti": 1,
+      "SpecialChargeMulti": 1,
+      "RangeMulti": 1,
+      "InkConsumptionMultiMain": 0.8,
+      "InkConsumptionMultiSub": 1,
+      "InkRecoveryMulti": 1
+    },
   ]
 }
