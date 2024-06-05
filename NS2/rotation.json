@@ -1,33 +1,33 @@
 {
-  "OctaBattle": [
-    {"startTime": "1725148800", "endTime": "1725155999", "stages": ["nagasaki", "scrap"]},
-    {"startTime": "1725156000", "endTime": "1725163199", "stages": ["hiagari", "updown"]},
-    {"startTime": "1725163200", "endTime": "1725170399", "stages": ["carousel", "around"]},
-    {"startTime": "1725170400", "endTime": "1725177599", "stages": ["corner", "crank"]},
-    {"startTime": "1725177600", "endTime": "1725184799", "stages": ["line", "tunnel"]},
-    {"startTime": "1725184800", "endTime": "1725191999", "stages": ["venue", "ruins"]},
-    {"startTime": "1725192000", "endTime": "1725199199", "stages": ["carousel", "updown"]},
-    {"startTime": "1725199200", "endTime": "1725206399", "stages": ["corner", "ruins"]},
-    {"startTime": "1725206400", "endTime": "1725213599", "stages": ["updown", "scrap"]},
-    {"startTime": "1725213600", "endTime": "1725220799", "stages": ["line", "crank"]},
-    {"startTime": "1725220800", "endTime": "1725227999", "stages": ["scrap", "corner"]},
-    {"startTime": "1725228000", "endTime": "1725235199", "stages": ["line", "around"]}
+  "soloPlay": [
+    {"startTime": "1725148800", "endTime": "1725155999", "stages": ["nagasaki", "scrap"], "mode": "cln"},
+    {"startTime": "1725156000", "endTime": "1725163199", "stages": ["hiagari", "updown"], "mode": "cln"},
+    {"startTime": "1725163200", "endTime": "1725170399", "stages": ["carousel", "around"], "mode": "cln"},
+    {"startTime": "1725170400", "endTime": "1725177599", "stages": ["corner", "crank"], "mode": "cln"},
+    {"startTime": "1725177600", "endTime": "1725184799", "stages": ["line", "tunnel"], "mode": "cln"},
+    {"startTime": "1725184800", "endTime": "1725191999", "stages": ["venue", "ruins"], "mode": "cln"},
+    {"startTime": "1725192000", "endTime": "1725199199", "stages": ["carousel", "updown"], "mode": "cln"},
+    {"startTime": "1725199200", "endTime": "1725206399", "stages": ["corner", "ruins"], "mode": "cln"},
+    {"startTime": "1725206400", "endTime": "1725213599", "stages": ["updown", "scrap"], "mode": "cln"},
+    {"startTime": "1725213600", "endTime": "1725220799", "stages": ["line", "crank"], "mode": "cln"},
+    {"startTime": "1725220800", "endTime": "1725227999", "stages": ["scrap", "corner"], "mode": "cln"},
+    {"startTime": "1725228000", "endTime": "1725235199", "stages": ["line", "around"], "mode": "cln"}
   ],
-  "RegularBattle": [
-    {"startTime": "1725148800", "endTime": "1725155999", "stages": ["carousel", "hiagari"]},
-    {"startTime": "1725156000", "endTime": "1725163199", "stages": ["corner", "ruins"]},
-    {"startTime": "1725163200", "endTime": "1725170399", "stages": ["nagasaki", "line"]},
-    {"startTime": "1725170400", "endTime": "1725177599", "stages": ["around", "scrap"]},
-    {"startTime": "1725177600", "endTime": "1725184799", "stages": ["venue", "crank"]},
-    {"startTime": "1725184800", "endTime": "1725191999", "stages": ["tunnel", "updown"]},
-    {"startTime": "1725192000", "endTime": "1725199199", "stages": ["ruins", "scrap"]},
-    {"startTime": "1725199200", "endTime": "1725206399", "stages": ["nagasaki", "carousel"]},
-    {"startTime": "1725206400", "endTime": "1725213599", "stages": ["line", "crank"]},
-    {"startTime": "1725213600", "endTime": "1725220799", "stages": ["scrap", "tunnel"]},
-    {"startTime": "1725220800", "endTime": "1725227999", "stages": ["updown", "around"]},
-    {"startTime": "1725228000", "endTime": "1725235199", "stages": ["hiagari", "crank"]}
+  "multiPlayRegular": [
+    {"startTime": "1725148800", "endTime": "1725155999", "stages": ["carousel", "hiagari"], "mode": "pop"},
+    {"startTime": "1725156000", "endTime": "1725163199", "stages": ["corner", "ruins"], "mode": "pop"},
+    {"startTime": "1725163200", "endTime": "1725170399", "stages": ["nagasaki", "line"], "mode": "pop"},
+    {"startTime": "1725170400", "endTime": "1725177599", "stages": ["around", "scrap"], "mode": "pop"},
+    {"startTime": "1725177600", "endTime": "1725184799", "stages": ["venue", "crank"], "mode": "pop"},
+    {"startTime": "1725184800", "endTime": "1725191999", "stages": ["tunnel", "updown"], "mode": "pop"},
+    {"startTime": "1725192000", "endTime": "1725199199", "stages": ["ruins", "scrap"], "mode": "pop"},
+    {"startTime": "1725199200", "endTime": "1725206399", "stages": ["nagasaki", "carousel"], "mode": "pop"},
+    {"startTime": "1725206400", "endTime": "1725213599", "stages": ["line", "crank"], "mode": "pop"},
+    {"startTime": "1725213600", "endTime": "1725220799", "stages": ["scrap", "tunnel"], "mode": "pop"},
+    {"startTime": "1725220800", "endTime": "1725227999", "stages": ["updown", "around"], "mode": "pop"},
+    {"startTime": "1725228000", "endTime": "1725235199", "stages": ["hiagari", "crank"], "mode": "pop"}
   ],
   "Challenge": [
-    {"startTime": "1725148800", "endTime": "1725235199", "stages": ["corner", "around"], "eventID": 2, "mode": "octa"}
+    {"startTime": "1725148800", "endTime": "1725235199", "stages": ["corner", "around"], "eventID": 2, "mode": "cln"}
   ]
 }
