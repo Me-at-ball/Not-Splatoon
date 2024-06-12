@@ -1,9 +1,9 @@
 {
   "GameDataVer": 9,
-  "ActiveChallenge": 6,
+  "ActiveChallenge": 4,
   "ActiveFesID": 0,
   "SpecialFesSymb": "null",
-  "ChallengePos1Symb": "dual",
-  "ChallengePos2Symb": "fullcharge",
+  "ChallengePos1Symb": "fullcharge",
+  "ChallengePos2Symb": "trialerror",
   "BoostingSongs": [29, 30, 31, 32]
 }
