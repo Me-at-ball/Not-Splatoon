@@ -79,6 +79,6 @@
     {"startTime": "1721109600", "endTime": "1721116799", "stages": ["hiagari", "corner"], "mode": "cln"},
     {"startTime": "1721116800", "endTime": "1721123999", "stages": ["around", "carousel"], "mode": "cln"},
     {"startTime": "1721124000", "endTime": "1721131199", "stages": ["crank", "hiagari"], "mode": "cln"},
-    {"startTime": "1721131200", "endTime": "1721138399", "stages": ["corner", "around"], "mode": "cln"}
+    {"startTime": "1721131200", "endTime": "1721138399", "stages": ["hiagari", "corner", "around", "crank", "carousel"], "mode": "cln"}
   ]
 }
