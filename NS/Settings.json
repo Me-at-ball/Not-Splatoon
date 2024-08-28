@@ -1,9 +1,9 @@
 {
   "GameDataVer": 9,
-  "ActiveChallenge": 3,
+  "ActiveChallenge": 2,
   "ActiveFesID": 0,
   "SpecialFesSymb": "null",
-  "ChallengePos1Symb": "bubblers",
-  "ChallengePos2Symb": "speed",
+  "ChallengePos1Symb": "speed",
+  "ChallengePos2Symb": "trizookas",
   "BoostingSongs": []
 }
