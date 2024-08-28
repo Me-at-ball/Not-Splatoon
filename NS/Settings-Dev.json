@@ -1,8 +1,8 @@
 {
   "GameDataVer": 9,
   "ActiveChallenge": 4,
-  "ActiveFesID": 0,
-  "SpecialFesSymb": "null",
+  "ActiveFesID": 1,
+  "SpecialFesSymb": "stove",
   "ChallengePos1Symb": "???",
   "ChallengePos2Symb": "???",
   "BoostingSongs": [29, 30, 31, 32]
