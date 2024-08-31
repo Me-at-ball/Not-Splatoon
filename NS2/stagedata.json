@@ -1,0 +1,9 @@
+{
+  "corner": {
+    "InkColorBlacklist": [],
+    "PopSpawnPoints": [
+      {"PosX": 0, "PosY": 0}
+    ],
+    "PopSpawnFrequency": 0
+  }
+}
