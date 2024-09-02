@@ -1,9 +1,9 @@
 {
   "GameDataVer": 9,
-  "ActiveChallenge": 7,
+  "ActiveChallenge": 6,
   "ActiveFesID": 0,
   "SpecialFesSymb": "null",
-  "ChallengePos1Symb": "trizookas",
-  "ChallengePos2Symb": "dual",
+  "ChallengePos1Symb": "dual",
+  "ChallengePos2Symb": "warmup",
   "BoostingSongs": []
 }
