@@ -7,6 +7,9 @@
   "TestfireOpenTime": "1712059200",
   "TestfireCloseTime": "1712667600",
   "UseLocalWeaponData": "true",
+  
+  "InkAlpha": [],
+  "InkBravo": [],
 
   "Events": [
     {
