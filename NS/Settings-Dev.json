@@ -1,9 +1,9 @@
 {
   "GameDataVer": 10,
   "ActiveChallenge": 61,
-  "ActiveFesID": 0,
-  "ActiveFesDay": 0,
-  "SpecialFesSymb": "null",
+  "ActiveFesID": 1,
+  "ActiveFesDay": 1,
+  "SpecialFesSymb": "sweat",
   "ViewFesResult": 0,
   "ChallengePos1Symb": "Fes",
   "ChallengePos2Symb": "???",
