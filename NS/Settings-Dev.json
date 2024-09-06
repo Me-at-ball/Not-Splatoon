@@ -4,6 +4,7 @@
   "ActiveFesID": 0,
   "ActiveFesDay": 0,
   "SpecialFesSymb": "null",
+  "ViewFesResult": 0,
   "ChallengePos1Symb": "Fes",
   "ChallengePos2Symb": "???",
   "BoostingSongs": [29, 30, 31, 32]
