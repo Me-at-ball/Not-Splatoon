@@ -1,10 +1,10 @@
 {
-  "GameDataVer": 9,
-  "ActiveChallenge": 60,
-  "ActiveFesID": 0,
+  "GameDataVer": 10,
+  "ActiveChallenge": 0,
+  "ActiveFesID": 2,
   "SpecialFesSymb": "null",
   "ViewFesResult": 0,
-  "ChallengePos1Symb": "warmup",
+  "ChallengePos1Symb": "fespractice",
   "ChallengePos2Symb": "???",
   "BoostingSongs": []
 }
